@@ -4,7 +4,7 @@
 
 **claude-mirror** reads your Claude Code history and produces a beautiful, interactive HTML report that answers the question: **what kind of Claude Code collaborator are you?**
 
-![claude-mirror report preview](screenshot.png)
+<img width="693" height="551" alt="Screenshot 2026-05-03 at 10 55 13" src="https://github.com/user-attachments/assets/309e9ed8-3384-491c-a1a2-1d2a1d27e2db" />
 
 ---
 
